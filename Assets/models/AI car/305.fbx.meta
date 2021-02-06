@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: e9dad5365504fbc4dbbce91fe0c7dbb1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Black
+    100004: Black 01.lxe (3)
+    100006: Black 01.lxe (4)
+    100008: Camera
+    100010: Cube
+    100012: Cube (10)
+    100014: Cube (11)
+    100016: Cube (12)
+    100018: Cube (13)
+    100020: Cube (14)
+    100022: Cube (15)
+    100024: Cube (16)
+    100026: Cube (17)
+    100028: Cube (18)
+    100030: Cube (19)
+    100032: Cube (2)
+    100034: Cube (20)
+    100036: Cube (21)
+    100038: Cube (22)
+    100040: Cube (23)
+    100042: Cube (24)
+    100044: Cube (25)
+    100046: Cube (26)
+    100048: Cube (27)
+    100050: Cube (28)
+    100052: Cube (29)
+    100054: Cube (3)
+    100056: Cube (30)
+    100058: Cube (31)
+    100060: Cube (32)
+    100062: Cube (33)
+    100064: Cube (34)
+    100066: Cube (36)
+    100068: Cube (37)
+    100070: Cube (38)
+    100072: Cube (39)
+    100074: Cube (4)
+    100076: Cube (40)
+    100078: Cube (41)
+    100080: Cube (42)
+    100082: Cube (43)
+    100084: Cube (44)
+    100086: Cube (5)
+    100088: Cube (6)
+    100090: Cube (7)
+    100092: Cube (8)
+    100094: Cube (9)
+    100096: Cylinder
+    100098: Cylinder (10)
+    100100: Cylinder (2)
+    100102: Cylinder (3)
+    100104: Cylinder (4)
+    100106: Cylinder (5)
+    100108: Cylinder (6)
+    100110: Cylinder (7)
+    100112: Cylinder (8)
+    100114: Cylinder (9)
+    100116: Directional Light
+    100118: Mesh
+    100120: Mesh (2)
+    100122: Mesh (4)
+    100124: Mesh (5)
+    100126: Mesh (6)
+    100128: Mesh (7)
+    100130: Outdoor Probe 05.lxe (2)
+    100132: Plane
+    100134: Plane (10)
+    100136: Plane (11)
+    100138: Plane (2)
+    100140: Plane (3)
+    100142: Plane (4)
+    100144: Plane (5)
+    100146: Plane (6)
+    100148: Plane (7)
+    100150: Plane (8)
+    100152: Plane (9)
+    100154: Point Light
+    100156: Point Light (2)
+    100158: Point Light (3)
+    100160: Point Light (4)
+    100162: Point Light (5)
+    100164: Point Light (6)
+    100166: suspension
+    100168: Texture Group
+    100170: Texture Group (2)
+    100172: Texture Group (3)
+    100174: Texture Group (4)
+    400000: //RootNode
+    400002: Black
+    400004: Black 01.lxe (3)
+    400006: Black 01.lxe (4)
+    400008: Camera
+    400010: Cube
+    400012: Cube (10)
+    400014: Cube (11)
+    400016: Cube (12)
+    400018: Cube (13)
+    400020: Cube (14)
+    400022: Cube (15)
+    400024: Cube (16)
+    400026: Cube (17)
+    400028: Cube (18)
+    400030: Cube (19)
+    400032: Cube (2)
+    400034: Cube (20)
+    400036: Cube (21)
+    400038: Cube (22)
+    400040: Cube (23)
+    400042: Cube (24)
+    400044: Cube (25)
+    400046: Cube (26)
+    400048: Cube (27)
+    400050: Cube (28)
+    400052: Cube (29)
+    400054: Cube (3)
+    400056: Cube (30)
+    400058: Cube (31)
+    400060: Cube (32)
+    400062: Cube (33)
+    400064: Cube (34)
+    400066: Cube (36)
+    400068: Cube (37)
+    400070: Cube (38)
+    400072: Cube (39)
+    400074: Cube (4)
+    400076: Cube (40)
+    400078: Cube (41)
+    400080: Cube (42)
+    400082: Cube (43)
+    400084: Cube (44)
+    400086: Cube (5)
+    400088: Cube (6)
+    400090: Cube (7)
+    400092: Cube (8)
+    400094: Cube (9)
+    400096: Cylinder
+    400098: Cylinder (10)
+    400100: Cylinder (2)
+    400102: Cylinder (3)
+    400104: Cylinder (4)
+    400106: Cylinder (5)
+    400108: Cylinder (6)
+    400110: Cylinder (7)
+    400112: Cylinder (8)
+    400114: Cylinder (9)
+    400116: Directional Light
+    400118: Mesh
+    400120: Mesh (2)
+    400122: Mesh (4)
+    400124: Mesh (5)
+    400126: Mesh (6)
+    400128: Mesh (7)
+    400130: Outdoor Probe 05.lxe (2)
+    400132: Plane
+    400134: Plane (10)
+    400136: Plane (11)
+    400138: Plane (2)
+    400140: Plane (3)
+    400142: Plane (4)
+    400144: Plane (5)
+    400146: Plane (6)
+    400148: Plane (7)
+    400150: Plane (8)
+    400152: Plane (9)
+    400154: Point Light
+    400156: Point Light (2)
+    400158: Point Light (3)
+    400160: Point Light (4)
+    400162: Point Light (5)
+    400164: Point Light (6)
+    400166: suspension
+    400168: Texture Group
+    400170: Texture Group (2)
+    400172: Texture Group (3)
+    400174: Texture Group (4)
+    2000000: Camera
+    2300000: Cube
+    2300002: Cube (10)
+    2300004: Cube (11)
+    2300006: Cube (12)
+    2300008: Cube (13)
+    2300010: Cube (14)
+    2300012: Cube (16)
+    2300014: Cube (17)
+    2300016: Cube (18)
+    2300018: Cube (19)
+    2300020: Cube (2)
+    2300022: Cube (20)
+    2300024: Cube (21)
+    2300026: Cube (22)
+    2300028: Cube (23)
+    2300030: Cube (24)
+    2300032: Cube (25)
+    2300034: Cube (26)
+    2300036: Cube (27)
+    2300038: Cube (28)
+    2300040: Cube (29)
+    2300042: Cube (3)
+    2300044: Cube (30)
+    2300046: Cube (31)
+    2300048: Cube (32)
+    2300050: Cube (33)
+    2300052: Cube (34)
+    2300054: Cube (36)
+    2300056: Cube (37)
+    2300058: Cube (38)
+    2300060: Cube (39)
+    2300062: Cube (4)
+    2300064: Cube (40)
+    2300066: Cube (41)
+    2300068: Cube (42)
+    2300070: Cube (43)
+    2300072: Cube (44)
+    2300074: Cube (5)
+    2300076: Cube (6)
+    2300078: Cube (7)
+    2300080: Cube (9)
+    2300082: Cylinder
+    2300084: Cylinder (10)
+    2300086: Cylinder (2)
+    2300088: Cylinder (3)
+    2300090: Cylinder (4)
+    2300092: Cylinder (5)
+    2300094: Cylinder (6)
+    2300096: Cylinder (7)
+    2300098: Cylinder (8)
+    2300100: Cylinder (9)
+    2300102: Mesh (4)
+    2300104: Mesh (5)
+    2300106: Mesh (6)
+    2300108: Mesh (7)
+    2300110: Plane
+    2300112: Plane (10)
+    2300114: Plane (11)
+    2300116: Plane (2)
+    2300118: Plane (3)
+    2300120: Plane (4)
+    2300122: Plane (5)
+    2300124: Plane (6)
+    2300126: Plane (7)
+    2300128: Plane (8)
+    2300130: Plane (9)
+    3300000: Cube
+    3300002: Cube (10)
+    3300004: Cube (11)
+    3300006: Cube (12)
+    3300008: Cube (13)
+    3300010: Cube (14)
+    3300012: Cube (16)
+    3300014: Cube (17)
+    3300016: Cube (18)
+    3300018: Cube (19)
+    3300020: Cube (2)
+    3300022: Cube (20)
+    3300024: Cube (21)
+    3300026: Cube (22)
+    3300028: Cube (23)
+    3300030: Cube (24)
+    3300032: Cube (25)
+    3300034: Cube (26)
+    3300036: Cube (27)
+    3300038: Cube (28)
+    3300040: Cube (29)
+    3300042: Cube (3)
+    3300044: Cube (30)
+    3300046: Cube (31)
+    3300048: Cube (32)
+    3300050: Cube (33)
+    3300052: Cube (34)
+    3300054: Cube (36)
+    3300056: Cube (37)
+    3300058: Cube (38)
+    3300060: Cube (39)
+    3300062: Cube (4)
+    3300064: Cube (40)
+    3300066: Cube (41)
+    3300068: Cube (42)
+    3300070: Cube (43)
+    3300072: Cube (44)
+    3300074: Cube (5)
+    3300076: Cube (6)
+    3300078: Cube (7)
+    3300080: Cube (9)
+    3300082: Cylinder
+    3300084: Cylinder (10)
+    3300086: Cylinder (2)
+    3300088: Cylinder (3)
+    3300090: Cylinder (4)
+    3300092: Cylinder (5)
+    3300094: Cylinder (6)
+    3300096: Cylinder (7)
+    3300098: Cylinder (8)
+    3300100: Cylinder (9)
+    3300102: Mesh (4)
+    3300104: Mesh (5)
+    3300106: Mesh (6)
+    3300108: Mesh (7)
+    3300110: Plane
+    3300112: Plane (10)
+    3300114: Plane (11)
+    3300116: Plane (2)
+    3300118: Plane (3)
+    3300120: Plane (4)
+    3300122: Plane (5)
+    3300124: Plane (6)
+    3300126: Plane (7)
+    3300128: Plane (8)
+    3300130: Plane (9)
+    4300000: Plane
+    4300002: Cube (2)
+    4300004: Cube (3)
+    4300006: Cube (4)
+    4300008: Cube (5)
+    4300010: Cube (6)
+    4300012: Cube (7)
+    4300014: Cube (9)
+    4300016: Cube (10)
+    4300018: Cube (11)
+    4300020: Cube (12)
+    4300022: Cube (13)
+    4300024: Cube (14)
+    4300026: Plane (2)
+    4300028: Cube (16)
+    4300030: Plane (3)
+    4300032: Plane (4)
+    4300034: Cylinder
+    4300036: Plane (8)
+    4300038: Plane (7)
+    4300040: Plane (5)
+    4300042: Cube (19)
+    4300044: Cube (18)
+    4300046: Cube (20)
+    4300048: Cube (21)
+    4300050: Cylinder (2)
+    4300052: Cube (22)
+    4300054: Plane (6)
+    4300056: Plane (9)
+    4300058: Cylinder (3)
+    4300060: Cylinder (4)
+    4300062: Cylinder (5)
+    4300064: Cube (24)
+    4300066: Cube (25)
+    4300068: Cube (26)
+    4300070: Cube (27)
+    4300072: Cube (29)
+    4300074: Cube (28)
+    4300076: Cube (30)
+    4300078: Cube (31)
+    4300080: Cube (32)
+    4300082: Cube (33)
+    4300084: Cube
+    4300086: Cylinder (6)
+    4300088: Cylinder (8)
+    4300090: Plane (11)
+    4300092: Cube (23)
+    4300094: Cube (36)
+    4300096: Cube (37)
+    4300098: Cylinder (7)
+    4300100: Cylinder (9)
+    4300102: Cube (38)
+    4300104: Cube (39)
+    4300106: Cube (40)
+    4300108: Cube (41)
+    4300110: Cylinder (10)
+    4300112: Cube (42)
+    4300114: Plane (10)
+    4300116: Cube (43)
+    4300118: Cube (17)
+    4300120: Cube (44)
+    4300122: Cube (34)
+    4300124: Mesh (4)
+    4300126: Mesh (6)
+    4300128: Mesh (5)
+    4300130: Mesh (7)
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Directional Light
+    10800002: Point Light
+    10800004: Point Light (2)
+    10800006: Point Light (3)
+    10800008: Point Light (4)
+    10800010: Point Light (5)
+    10800012: Point Light (6)
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: aa8cc0bbfdeabaf41a8a45de671bcf70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black2
+    second: {fileID: 2100000, guid: 547c940e7b06ffa4eb92c9297bb11ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackbody
+    second: {fileID: 2100000, guid: e335e15c1e87fa14585244676bd1daed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackplst
+    second: {fileID: 2100000, guid: 020a96537d7fd224aad0a5d140a5338c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodyblack2
+    second: {fileID: 2100000, guid: c572c096d6696af42aefa717f58d8e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: a6b3a69cfe2039e42bdb748066b6ad30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome2
+    second: {fileID: 2100000, guid: 5255a7b0fc612214f88511f3a34b6d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 6ac776d726b062d4595c59281922f0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior
+    second: {fileID: 2100000, guid: 2e00274518c684049a6306b44a5f31eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: 44a69bd20a2fff145bd31890951a50cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main
+    second: {fileID: 2100000, guid: 0e86425d409f4b64dad6d3864c8d85aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: e6ba883a34a4b1d4185f74fbcff7ef47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: num
+    second: {fileID: 2100000, guid: c171738fb3fe627428d99203e567f6a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orl
+    second: {fileID: 2100000, guid: 24f9e70d0e7fa6748911ac45db682cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redglass
+    second: {fileID: 2100000, guid: e1e137a145dfd3c42bc6185b3a876785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rims1
+    second: {fileID: 2100000, guid: d048d3ea64fb4e147890a6eaed1babd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rims2
+    second: {fileID: 2100000, guid: 7205cc6ddf6b03a4695a7939c3ecd154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: f983f704d20df9b4b98f29a87f309317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire2
+    second: {fileID: 2100000, guid: aa3af27ab53a7e547af32bb83f7a9b5e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
